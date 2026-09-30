@@ -1,0 +1,27 @@
+Student TarasShevchenko
+{
+  "firstname": "Taras",
+  "lastname": "Shevchenko",
+  "height": "180",
+  "weight": "70",
+  "studentId": "KB12345678",
+  "passport": "AA123456"
+};
+Student IvanFranko
+{
+  "firstname": "Ivan",
+  "lastname": "Franko",
+  "height": "175",
+  "weight": "65",
+  "studentId": "KB87654321",
+  "passport": "BB654321"
+};
+Student PetroPetrenko
+{
+  "firstname": "Petro",
+  "lastname": "Petrenko",
+  "height": "190",
+  "weight": "95",
+  "studentId": "KB11223344",
+  "passport": "CC112233"
+};

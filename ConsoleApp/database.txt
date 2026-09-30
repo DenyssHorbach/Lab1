@@ -1,0 +1,27 @@
+Student ZenykKuz'min
+{
+  "firstname": "Zenyk",
+  "lastname": "Kuz'min",
+  "height": "180",
+  "weight": "70",
+  "studentId": "KB12345678",
+  "passport": "AA123456"
+};
+Student PetroPoroshenko
+{
+  "firstname": "Petro",
+  "lastname": "Poroshenko",
+  "height": "175",
+  "weight": "65",
+  "studentId": "KB87654321",
+  "passport": "BB654321"
+};
+Student PesPatron
+{
+  "firstname": "Pes",
+  "lastname": "Patron",
+  "height": "190",
+  "weight": "95",
+  "studentId": "KB11223344",
+  "passport": "CC112233"
+};
