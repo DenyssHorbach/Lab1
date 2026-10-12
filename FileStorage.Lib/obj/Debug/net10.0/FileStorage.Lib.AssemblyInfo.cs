@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileStorage.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83aea19d2d68ef800cd42e1e23a74b24b0ef3a63")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileStorage.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileStorage.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
